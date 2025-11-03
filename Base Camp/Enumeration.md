@@ -47,3 +47,17 @@ If you're assessing this for security or enumeration:
     
 - You may want to follow up with tools like `ldapsearch`, `rpcclient`, or `kerbrute` depending on your goals.
 
+## Add k2.thm to hosts
+
+#Attaking_Machine
+
+Edit /etc /hosts and add the following line:
+
+```
+<MACHIINE IP>       k2.thm
+```
+
+
+**Next step:** [[Web Server]]
+
+
