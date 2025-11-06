@@ -59,11 +59,9 @@ A **WAF (Web Application Firewall)** is active.
 
 ### Bypassing WAF
 
-To determine which part in THE payload triggered the WAF, senD different words from the original payload as part of the description.
+To determine which part in the payload triggered the WAF, send different words from the original payload as part of the description.
 
 So, send  `“<script>” , “var” , “btoa”`, and none of them activated the WAF.
-
-`“Document” and “Cookie”` don’t activate the WAF either,  but the string `“document.cookie”` does!
 
 Instead you can use the following way.
 
@@ -77,7 +75,7 @@ The ticket is successfully submitted.
 
 
 #Attaking_Machine 
-On the python server you'll get several  base64 cookies.
+On the python server you'll get several  cookies.
 
 ![[base64_coockie-1.png]]
 
@@ -92,4 +90,5 @@ The code `eyJhZG1pbl91c2VybmFtZSI6ImphbWVzIiwiaWQiOjEsImxvZ2dlZGluIjp0cnVlfQ.aQs
 The code is an admin's token.
 
 
+**Next step:** [[Exploitation]]
 

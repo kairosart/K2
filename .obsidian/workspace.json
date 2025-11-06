@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Camp/Web Server.md",
-                "mode": "source",
+                "file": "Base Camp/Exploitation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Web Server"
+              "title": "Exploitation"
             }
           },
           {
@@ -38,19 +38,22 @@
             }
           },
           {
-            "id": "d18fcecf2cd83e88",
+            "id": "822770037a7e7430",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/k2.thm.png"
+                "file": "Base Camp/XSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "k2.thm"
+              "icon": "lucide-file",
+              "title": "XSS"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,22 +305,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e1b1143474fa0beb",
+  "active": "822770037a7e7430",
   "lastOpenFiles": [
-    "images/k2.thm.png",
-    "images/base64_coockie.png",
+    "images/dev_tools.png",
+    "Base Camp/Exploitation.md",
+    "images/InternalServerError.png",
+    "images/character_single_quote.png",
     "Base Camp/XSS.md",
+    "Base Camp/Web Server.md",
+    "Base Camp/Enumeration.md",
+    "images/k2.thm.png",
+    "images/ticket_list.png",
+    "Base Camp/Untitled",
+    "images/base64_coockie.png",
     "images/base64_coockie-1.png",
     "images/www.jwt.io.png",
     "images/ticket_submmited.png",
     "images/cookies_stealing.png",
-    "images/callback.png",
-    "Base Camp/Web Server.md",
-    "Base Camp/Enumeration.md",
-    "images/it.png",
-    "images/admin.png",
     "index.md",
-    "images/subdomains.png",
     "Base Camp",
     "images",
     "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
@@ -335,7 +340,6 @@
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
     "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
     "docs/lib/fonts/454577c22304619db035.ttf",
-    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
     "images/Vulnerable.ps1.md",
     "EXPLOITATION/User flag.md",
     "EXPLOITATION/Connecting the Machine.md",
@@ -347,7 +351,6 @@
     "PRIVILEGE ESCALATION/User's privileges.md",
     "EXPLOITATION/linPEAS.md",
     "EXPLOITATION/Ghostcat exploit.md",
-    "EXPLOITATION/Cracking jdk-admin's hash.md",
-    "ENUMERATION/Tomcat.md"
+    "EXPLOITATION/Cracking jdk-admin's hash.md"
   ]
 }
