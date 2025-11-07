@@ -51,9 +51,51 @@
               "icon": "lucide-file",
               "title": "XSS"
             }
+          },
+          {
+            "id": "5ee127cae8c6fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Camp/User's flag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "User's flag"
+            }
+          },
+          {
+            "id": "008b5704eb6b1047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Camp/Root's flag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Root's flag"
+            }
+          },
+          {
+            "id": "9e25cc769cb4634b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/columns.png"
+              },
+              "icon": "lucide-image",
+              "title": "columns"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base Camp/XSS.md",
+                "file": "Base Camp/Root's flag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XSS"
+              "title": "Outline of Root's flag"
             }
           },
           {
@@ -305,23 +347,26 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "822770037a7e7430",
+  "active": "008b5704eb6b1047",
   "lastOpenFiles": [
-    "images/dev_tools.png",
+    "Base Camp/User's flag.md",
+    "Base Camp/Root's flag.md",
+    "rootFlag.png",
+    "Base Camp/Private Escalation.md",
+    "images/columns.png",
+    "images/root.png",
+    "images/rose.png",
     "Base Camp/Exploitation.md",
-    "images/InternalServerError.png",
-    "images/character_single_quote.png",
     "Base Camp/XSS.md",
+    "images/id.png",
+    "images/admin_auth.png",
+    "images/tables.png",
+    "images/databases.png",
+    "images/dev_tools.png",
+    "images/InternalServerError.png",
     "Base Camp/Web Server.md",
     "Base Camp/Enumeration.md",
-    "images/k2.thm.png",
-    "images/ticket_list.png",
     "Base Camp/Untitled",
-    "images/base64_coockie.png",
-    "images/base64_coockie-1.png",
-    "images/www.jwt.io.png",
-    "images/ticket_submmited.png",
-    "images/cookies_stealing.png",
     "index.md",
     "Base Camp",
     "images",
@@ -348,9 +393,6 @@
     "PRIVILEGE ESCALATION/Services.md",
     "PRIVILEGE ESCALATION/Administrator flag.md",
     "ENUMERATION/Metasploit.md",
-    "PRIVILEGE ESCALATION/User's privileges.md",
-    "EXPLOITATION/linPEAS.md",
-    "EXPLOITATION/Ghostcat exploit.md",
-    "EXPLOITATION/Cracking jdk-admin's hash.md"
+    "PRIVILEGE ESCALATION/User's privileges.md"
   ]
 }
