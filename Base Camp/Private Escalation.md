@@ -19,6 +19,9 @@ You'll find all entries that have `rose` as a topic in any way.
 ![[rose.png]]
 
 In `nginx/access.log`, you found the failed login attempt of `rose` with a `clear text password`. 
+
+`rose:RdzQ7MSKt)fNaz3!`
+
 If you try to change user to rose you get `su: Authentication failure`.
 
 ## Getting root
