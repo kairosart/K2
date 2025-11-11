@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Camp/Private Escalation.md",
+                "file": "Base Camp/Other Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Private Escalation"
+              "title": "Other Questions"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Camp/User's flag.md",
+                "file": "Middle Camp/Foothold.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "User's flag"
+              "title": "Foothold"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Foothold.md",
+                "file": "Base Camp/Other Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Foothold"
+              "title": "Other Questions"
             }
           },
           {
@@ -83,19 +83,19 @@
             }
           },
           {
-            "id": "9e25cc769cb4634b",
+            "id": "db95a1a844a728a6",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "images/columns.png"
+                "file": "images/rootFlag.png"
               },
               "icon": "lucide-image",
-              "title": "columns"
+              "title": "rootFlag"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middle Camp/Foothold.md",
+                "file": "images/rootFlag.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Foothold"
+              "title": "Outline of rootFlag"
             }
           },
           {
@@ -347,29 +347,29 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5ee127cae8c6fe1d",
+  "active": "49d2e38fa784abc2",
   "lastOpenFiles": [
-    "Middle Camp/Enumeration.md",
-    "Base Camp/Web Server.md",
     "Middle Camp/Foothold.md",
-    "nmap3.png",
-    "nmap2.png",
-    "Base Camp/User's flag.md",
-    "Base Camp/Root's flag.md",
     "Base Camp/Other Questions.md",
-    "twoNames.png",
+    "Base Camp/User's flag.md",
+    "Middle Camp/Enumeration.md",
+    "Base Camp/Root's flag.md",
+    "images/columns.png",
+    "Base Camp/Private Escalation.md",
+    "images/kerbrute.png",
+    "images/posible_users-1.png",
+    "images/posible_users.png",
+    "Base Camp/Web Server.md",
+    "images/nmap3.png",
+    "images/nmap2.png",
+    "images/twoNames.png",
     "Base Camp/XSS.md",
     "Base Camp/Exploitation.md",
-    "bash_history.png",
-    "Base Camp/Private Escalation.md",
+    "images/bash_history.png",
     "Base Camp/Enumeration.md",
     "Middle Camp",
-    "rootFlag.png",
-    "images/columns.png",
+    "images/rootFlag.png",
     "images/root.png",
-    "images/rose.png",
-    "images/id.png",
-    "images/admin_auth.png",
     "Base Camp/Untitled",
     "index.md",
     "Base Camp",
@@ -393,7 +393,6 @@
     "EXPLOITATION/Connecting the Machine.md",
     "EXPLOITATION/Gaining initial access.md",
     "ENUMERATION/Kerbrute.md",
-    "PRIVILEGE ESCALATION/Services.md",
-    "PRIVILEGE ESCALATION/Administrator flag.md"
+    "PRIVILEGE ESCALATION/Services.md"
   ]
 }
