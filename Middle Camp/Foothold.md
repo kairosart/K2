@@ -53,7 +53,19 @@ NetExec (a.k.a nxc) is a network service exploitation tool that helps automate a
 
 #Attaking_Machine 
 
-1. Run the following command.
+1. Run the following command to check whether this user has access via `winrm`.
 ```
-nxc smb <target IP> -u users.txt -p passords.txt --continue-on-success
+nxc winrm <MACHINE IP> -u r.bud -p '`vRMkaVgdfxhW!8`
 ```
+
+![[winrm.png]]
+
+2. Connect via `evil-winrm`.
+
+```
+nxc winrm k2.thm -u r.bud -p 'vRMkaVgdfxhW!8'  
+```
+
+![[evilwinrm.png]]
+
+**Next step:** [[Shell as R.Bud]]

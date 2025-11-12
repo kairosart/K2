@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Camp/Other Questions.md",
+                "file": "Middle Camp/Shell as R.Bud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Other Questions"
+              "title": "Shell as R.Bud"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Foothold.md",
+                "file": "Middle Camp/Second Question.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Foothold"
+              "title": "Second Question"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Enumeration.md",
+                "file": "Middle Camp/Lateral Movement I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "Lateral Movement I"
             }
           },
           {
@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Camp/Other Questions.md",
+                "file": "Middle Camp/Shell as R.Bud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Other Questions"
+              "title": "Shell as R.Bud"
             }
           },
           {
@@ -88,10 +88,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/rootFlag.png"
+                "file": "images/winrm.png"
               },
               "icon": "lucide-image",
-              "title": "rootFlag"
+              "title": "winrm"
             }
           }
         ],
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/rootFlag.png",
+                "file": "images/winrm.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of rootFlag"
+              "title": "Outline of winrm"
             }
           },
           {
@@ -349,27 +349,30 @@
   },
   "active": "49d2e38fa784abc2",
   "lastOpenFiles": [
-    "Middle Camp/Foothold.md",
-    "Base Camp/Other Questions.md",
-    "Base Camp/User's flag.md",
+    "images/rootFlag.png",
+    "Middle Camp/Lateral Movement I.md",
+    "Middle Camp/Shell as R.Bud.md",
+    "Middle Camp/Second Question.md",
     "Middle Camp/Enumeration.md",
+    "images/users.png",
     "Base Camp/Root's flag.md",
+    "Base Camp/Other Questions.md",
+    "Middle Camp/Foothold.md",
+    "images/jamesnote2.png",
+    "images/hamesnote.png",
+    "images/jamesdpcs.png",
+    "images/evilwinrm.png",
+    "images/winrm.png",
+    "Base Camp/User's flag.md",
     "images/columns.png",
     "Base Camp/Private Escalation.md",
     "images/kerbrute.png",
     "images/posible_users-1.png",
-    "images/posible_users.png",
     "Base Camp/Web Server.md",
-    "images/nmap3.png",
-    "images/nmap2.png",
-    "images/twoNames.png",
     "Base Camp/XSS.md",
     "Base Camp/Exploitation.md",
-    "images/bash_history.png",
     "Base Camp/Enumeration.md",
     "Middle Camp",
-    "images/rootFlag.png",
-    "images/root.png",
     "Base Camp/Untitled",
     "index.md",
     "Base Camp",
@@ -390,9 +393,6 @@
     "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
     "images/Vulnerable.ps1.md",
     "EXPLOITATION/User flag.md",
-    "EXPLOITATION/Connecting the Machine.md",
-    "EXPLOITATION/Gaining initial access.md",
-    "ENUMERATION/Kerbrute.md",
-    "PRIVILEGE ESCALATION/Services.md"
+    "EXPLOITATION/Connecting the Machine.md"
   ]
 }
