@@ -29,27 +29,15 @@ bloodhound-python -d k2.thm -c All -u 'r.bud' -p 'vRMkaVgdfxhW!8' -dc k2.thm -ns
 After this you'll get a few .json files on your directory.
 
 ![[jsonfiles.png]]
-## neo4j
-
-#Attaking_Machine 
-Run neo4j.
-
-```
-sudo neo4j start
-```
-
-![[neo4j.png]]
 
 ## Bloodhound
 
-### Install bloodhound on Kali Linux
+At the time of writing this walkthrough I was working on Kali Linux 2025.4.
 
-https://www.kali.org/tools/bloodhound/
+So as to install neo4j and bloodhoun I've done a section that does it for you automatically.
 
-1. Run:
-```
-sudo apt update && sudo apt install -y bloodhound
-```
+**Next step:** [[UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition]]
+
 
 
 

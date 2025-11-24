@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middle Camp/UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+                "file": "Middle Camp/Lateral Movement II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition"
+              "title": "Outline of Lateral Movement II"
             }
           },
           {
@@ -374,10 +374,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a17112b3eeaae630",
+  "active": "e1b1143474fa0beb",
   "lastOpenFiles": [
-    "Middle Camp/Lateral Movement II.md",
     "Middle Camp/UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+    "Middle Camp/Lateral Movement II.md",
     "README.md",
     "index.md",
     "images/Negación Erótica.md",
