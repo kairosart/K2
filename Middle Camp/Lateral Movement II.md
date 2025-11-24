@@ -26,7 +26,7 @@ bloodhound-python -d k2.thm -c All -u 'r.bud' -p 'vRMkaVgdfxhW!8' -dc k2.thm -ns
 
 ![[bloodhound.png]]
 
-After this you'll get a few .json files on your directory.
+After this you'll get a few `.json` files on your directory.
 
 ![[jsonfiles.png]]
 

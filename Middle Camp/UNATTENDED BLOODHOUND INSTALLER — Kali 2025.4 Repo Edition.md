@@ -1,3 +1,5 @@
+## BloodHound v8.3.1
+
 Save as: `bloodhound_full_unattended.sh`
 
 > ⚠️ _Replace `YOUR_SECURE_PASSWORD_HERE` before running._
@@ -145,3 +147,8 @@ systemctl status bloodhound-suite.service
 ```
 
 Neo4j still runs as its own service.
+
+You can consult [[BloodHound v8 Defensive Toolkit]].
+
+
+**Next step:**  [[Bloodhound analysis]]

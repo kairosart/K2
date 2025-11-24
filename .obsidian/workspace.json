@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Lateral Movement II.md",
+                "file": "Middle Camp/BloodHound v8 Defensive Toolkit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lateral Movement II"
+              "title": "BloodHound v8 Defensive Toolkit"
             }
           },
           {
@@ -53,60 +53,6 @@
             }
           },
           {
-            "id": "5ee127cae8c6fe1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Middle Camp/Shell as R.Bud.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Shell as R.Bud"
-            }
-          },
-          {
-            "id": "008b5704eb6b1047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Middle Camp/Foothold.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Foothold"
-            }
-          },
-          {
-            "id": "db95a1a844a728a6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/j.bold.png"
-              },
-              "icon": "lucide-image",
-              "title": "j.bold"
-            }
-          },
-          {
-            "id": "184017bb89b32d8b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
             "id": "a17112b3eeaae630",
             "type": "leaf",
             "state": {
@@ -120,9 +66,39 @@
               "icon": "lucide-file",
               "title": "UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition"
             }
+          },
+          {
+            "id": "fb8c6b1679b8d2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Middle Camp/UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition"
+            }
+          },
+          {
+            "id": "974e97d2552b49c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Middle Camp/Bloodhound analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloodhound analysis"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middle Camp/Lateral Movement II.md",
+                "file": "Middle Camp/UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lateral Movement II"
+              "title": "Outline of UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition"
             }
           },
           {
@@ -374,21 +350,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e1b1143474fa0beb",
+  "active": "a17112b3eeaae630",
   "lastOpenFiles": [
+    "Middle Camp/Bloodhound analysis.md",
+    "Middle Camp/BloodHound v8 Defensive Toolkit.md",
     "Middle Camp/UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
     "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Lateral Movement I.md",
+    "images/j.bold.png",
+    "Middle Camp/Foothold.md",
+    "Middle Camp/Shell as R.Bud.md",
     "README.md",
     "index.md",
     "images/Negación Erótica.md",
-    "images/j.bold.png",
     "images/winrm.png",
     "images/jsonfiles.png",
-    "Middle Camp/Lateral Movement I.md",
     "Middle Camp/Second Question.md",
-    "Middle Camp/Foothold.md",
     "Middle Camp/Enumeration.md",
-    "Middle Camp/Shell as R.Bud.md",
     "Base Camp/Enumeration.md",
     "images/neo4j.png",
     "images/bloodhound.png",
@@ -415,12 +393,10 @@
     "ENUMERATION/Web Server.md",
     "ENUMERATION/Network nmap.md",
     "docs/PRIVILEGE ESCALATION/Root flag.html",
-    "PRIVILEGE ESCALATION/Root flag.md",
     "docs/lib/metadata.json",
     "docs/lib/media",
     "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "images/Vulnerable.ps1.md"
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf"
   ]
 }
