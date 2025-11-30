@@ -1,10 +1,10 @@
-On the previous step the shell you got is R.Bud'.
+On the previous step the shell you got is R.Bud.
 
 #Winrm
 - List the files.
 
 ```
-*Evil-WinRM* PS C:\Users\r.bud\Documents> dir
+Evil-WinRM PS C:\Users\r.bud\Documents> dir
 ```
 
 ![[jamesdpcs.png]]

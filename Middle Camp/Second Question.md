@@ -3,7 +3,7 @@
 - List the users.
 
 ```
-*Evil-WinRM* PS C:\Users> dir
+Evil-WinRM PS C:\Users> dir
 ```
 
 ![[users.png]]

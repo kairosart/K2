@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Foothold.md",
+                "file": "Middle Camp/Shell as R.Bud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Foothold"
+              "title": "Shell as R.Bud"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/BloodHound v8 Defensive Toolkit.md",
+                "file": "Middle Camp/First question.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "BloodHound v8 Defensive Toolkit"
+              "title": "First question"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Lateral Movement I.md",
+                "file": "Middle Camp/Second Question.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lateral Movement I"
+              "title": "Second Question"
             }
           },
           {
@@ -71,15 +71,12 @@
             "id": "fb8c6b1679b8d2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Middle Camp/Bloodhound analysis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "images/j.smith.png"
               },
-              "icon": "lucide-file",
-              "title": "Bloodhound analysis"
+              "icon": "lucide-image",
+              "title": "j.smith"
             }
           },
           {
@@ -88,29 +85,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Bloodhound analysis.md",
+                "file": "Middle Camp/Connecting with WinRM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bloodhound analysis"
+              "title": "Connecting with WinRM"
             }
           },
           {
-            "id": "974e97d2552b49c2",
+            "id": "d307e25afcc5b1c4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Diagram.svg"
-              },
-              "icon": "lucide-image",
-              "title": "Diagram"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ticket",
+                "query": "winrm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Diagram.svg",
+                "file": "Middle Camp/First question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diagram"
+              "title": "Outline of First question"
             }
           },
           {
@@ -362,39 +357,42 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "49d2e38fa784abc2",
+  "active": "e1b1143474fa0beb",
   "lastOpenFiles": [
-    "Middle Camp/Bloodhound analysis.md",
-    "images/Screenshot_2025-11-30_05-29-36.png",
-    "images/Diagram.svg",
-    "images/Diagram.svg.xml",
-    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
-    "Middle Camp/BloodHound v8 Defensive Toolkit.md",
-    "Middle Camp/Shell as R.Bud.md",
-    "Middle Camp/Lateral Movement II.md",
-    "Middle Camp/Lateral Movement I.md",
-    "images/j.bold.png",
+    "Middle Camp/Second Question.md",
+    "Middle Camp/First question.md",
     "Middle Camp/Foothold.md",
-    "README.md",
+    "Middle Camp/Connecting with WinRM.md",
+    "Middle Camp/Changing J.Smith's password.md",
+    "Middle Camp/Shell as R.Bud.md",
+    "images/j.smith.png",
+    "Base Camp/Exploitation.md",
+    "images/winrm_j.smith.png",
     "index.md",
     "images/Negación Erótica.md",
+    "README.md",
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+    "Base Camp/XSS.md",
+    "Base Camp/Web Server.md",
+    "Base Camp/User's flag.md",
+    "Base Camp/Root's flag.md",
+    "Base Camp/Private Escalation.md",
+    "Base Camp/Other Questions.md",
+    "Middle Camp/Bloodhound analysis.md",
+    "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Lateral Movement I.md",
+    "images/winrm 1.png",
+    "images/Force_change_password.png",
+    "images/Diagram.svg",
+    "images/Screenshot_2025-11-30_05-29-36.png",
+    "images/Diagram.svg.xml",
+    "Middle Camp/BloodHound v8 Defensive Toolkit.md",
+    "images/j.bold.png",
     "images/winrm.png",
     "images/jsonfiles.png",
-    "Middle Camp/Second Question.md",
     "Middle Camp/Enumeration.md",
     "Base Camp/Enumeration.md",
     "images/neo4j.png",
-    "images/bloodhound.png",
-    "images/dnschef.png",
-    "Base Camp/Root's flag.md",
-    "images/rootFlag.png",
-    "images/users.png",
-    "Base Camp/Other Questions.md",
-    "Base Camp/User's flag.md",
-    "Base Camp/Private Escalation.md",
-    "Base Camp/Web Server.md",
-    "Base Camp/XSS.md",
-    "Base Camp/Exploitation.md",
     "Middle Camp",
     "Base Camp/Untitled",
     "Base Camp",
@@ -402,8 +400,6 @@
     "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
     "PRIVILEGE ESCALATION/Webshell.md",
     "EXPLOITATION/User level flag.md",
-    "EXPLOITATION/Reverse Shell.md",
-    "ENUMERATION/Web Server.md",
     "docs/PRIVILEGE ESCALATION/Root flag.html",
     "docs/lib/metadata.json",
     "docs/lib/media",

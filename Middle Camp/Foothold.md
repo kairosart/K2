@@ -58,12 +58,12 @@ NetExec (a.k.a nxc) is a network service exploitation tool that helps automate a
 nxc winrm <MACHINE IP> -u r.bud -p '`vRMkaVgdfxhW!8`
 ```
 
-![[winrm.png]]
+![[winrm 1.png]]
 
 2. Connect via `evil-winrm`.
 
 ```
-nxc winrm k2.thm -u r.bud -p 'vRMkaVgdfxhW!8'  
+evil-winrm -i <target IP> -u r.bud -p 'vRMkaVgdfxhW!8'  
 ```
 
 ![[evilwinrm.png]]
