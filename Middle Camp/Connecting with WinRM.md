@@ -19,3 +19,5 @@ evil-winrm -i k2.thm -u j.smith -p 'Password123@'
 
 ![[winrm_j.smith.png]]
 
+**Next step:** [[First question]]
+

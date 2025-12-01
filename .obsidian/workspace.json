@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Shell as R.Bud.md",
+                "file": "Middle Camp/Root's flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shell as R.Bud"
+              "title": "Root's flag"
             }
           },
           {
@@ -51,61 +51,9 @@
               "icon": "lucide-file",
               "title": "Second Question"
             }
-          },
-          {
-            "id": "a17112b3eeaae630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition"
-            }
-          },
-          {
-            "id": "fb8c6b1679b8d2f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/j.smith.png"
-              },
-              "icon": "lucide-image",
-              "title": "j.smith"
-            }
-          },
-          {
-            "id": "debb61517f0e51c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Middle Camp/Connecting with WinRM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Connecting with WinRM"
-            }
-          },
-          {
-            "id": "d307e25afcc5b1c4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middle Camp/First question.md",
+                "file": "Middle Camp/Second Question.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First question"
+              "title": "Outline of Second Question"
             }
           },
           {
@@ -357,29 +305,36 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e1b1143474fa0beb",
+  "active": "822770037a7e7430",
   "lastOpenFiles": [
-    "Middle Camp/Second Question.md",
-    "Middle Camp/First question.md",
-    "Middle Camp/Foothold.md",
-    "Middle Camp/Connecting with WinRM.md",
-    "Middle Camp/Changing J.Smith's password.md",
-    "Middle Camp/Shell as R.Bud.md",
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
     "images/j.smith.png",
+    "Middle Camp/Administrator's NTLM hash.md",
+    "images/privileges.png",
+    "The Summit",
+    "Middle Camp/Privilege Escalation.md",
+    "Middle Camp/Root's flag.md",
+    "Middle Camp/First question.md",
+    "Middle Camp/Shell as R.Bud.md",
+    "Middle Camp/Connecting with WinRM.md",
+    "images/administrator.png",
+    "images/pypykatz.png",
+    "Middle Camp/Changing J.Smith's password.md",
+    "Middle Camp/Bloodhound analysis.md",
+    "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Second Question.md",
+    "Middle Camp/Foothold.md",
     "Base Camp/Exploitation.md",
     "images/winrm_j.smith.png",
     "index.md",
     "images/Negación Erótica.md",
     "README.md",
-    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
     "Base Camp/XSS.md",
     "Base Camp/Web Server.md",
     "Base Camp/User's flag.md",
     "Base Camp/Root's flag.md",
     "Base Camp/Private Escalation.md",
     "Base Camp/Other Questions.md",
-    "Middle Camp/Bloodhound analysis.md",
-    "Middle Camp/Lateral Movement II.md",
     "Middle Camp/Lateral Movement I.md",
     "images/winrm 1.png",
     "images/Force_change_password.png",
@@ -388,22 +343,14 @@
     "images/Diagram.svg.xml",
     "Middle Camp/BloodHound v8 Defensive Toolkit.md",
     "images/j.bold.png",
-    "images/winrm.png",
-    "images/jsonfiles.png",
     "Middle Camp/Enumeration.md",
-    "Base Camp/Enumeration.md",
-    "images/neo4j.png",
     "Middle Camp",
     "Base Camp/Untitled",
     "Base Camp",
     "images",
-    "PRIVILEGE ESCALATION/SeImpersonatePrivilege.md",
-    "PRIVILEGE ESCALATION/Webshell.md",
-    "EXPLOITATION/User level flag.md",
     "docs/PRIVILEGE ESCALATION/Root flag.html",
     "docs/lib/metadata.json",
     "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf"
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2"
   ]
 }
