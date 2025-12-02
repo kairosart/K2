@@ -34,5 +34,14 @@
       ],
       "key": "I"
     }
+  ],
+  "neighbouring-files:prev": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

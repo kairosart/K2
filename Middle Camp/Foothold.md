@@ -45,11 +45,9 @@ Create a file called `passwords.txt` with the passwords found on [[Other Questio
 `Pwd@9tLNrC3!`
 `vRMkaVgdfxhW!8`
 
-
-
 ## NetExec
 
-NetExec (a.k.a nxc) is a network service exploitation tool that helps automate assessing the security of _large_ networks. More info [NetExec](https://github.com/Pennyw0rth/NetExec).
+NetExec (a.k.a nxc) is a network service [[Exploitation]] tool that helps automate assessing the security of _large_ networks. More info [NetExec](https://github.com/Pennyw0rth/NetExec).
 
 #Attaking_Machine 
 

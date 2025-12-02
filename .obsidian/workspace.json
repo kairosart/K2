@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Root's flag.md",
+                "file": "Middle Camp/Shell as R.Bud.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Root's flag"
+              "title": "Shell as R.Bud"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/First question.md",
+                "file": "The Summit/Foothold.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "First question"
+              "title": "Foothold"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Middle Camp/Second Question.md",
+                "file": "The Summit/Shell as o.amstrong.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Second Question"
+              "title": "Shell as o.amstrong"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "winrm",
+                "query": "kerbrute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middle Camp/Second Question.md",
+                "file": "The Summit/Shell as o.amstrong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Question"
+              "title": "Outline of Shell as o.amstrong"
             }
           },
           {
@@ -307,43 +307,43 @@
   },
   "active": "822770037a7e7430",
   "lastOpenFiles": [
-    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
-    "images/j.smith.png",
+    "images/nmap3 1.png",
+    "The Summit/Foothold.md",
+    "The Summit/Shell as o.amstrong.md",
+    "images/copy3.png",
+    "images/backup3.png",
+    "images/ls3.png",
+    "The Summit/Enumeration.md",
+    "Middle Camp/Shell as R.Bud.md",
+    "Middle Camp/Foothold.md",
+    "images/winrm3.png",
+    "images/NETEXEC3.png",
+    "images/passwords3.png",
+    "images/kerbrute3.png",
+    "Middle Camp/Enumeration.md",
+    "Middle Camp/Shell as J.Smith.md",
     "Middle Camp/Administrator's NTLM hash.md",
-    "images/privileges.png",
-    "The Summit",
+    "Middle Camp/Changing J.Smith's password.md",
+    "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Lateral Movement I.md",
+    "Middle Camp/First question.md",
     "Middle Camp/Privilege Escalation.md",
     "Middle Camp/Root's flag.md",
-    "Middle Camp/First question.md",
-    "Middle Camp/Shell as R.Bud.md",
-    "Middle Camp/Connecting with WinRM.md",
-    "images/administrator.png",
-    "images/pypykatz.png",
-    "Middle Camp/Changing J.Smith's password.md",
-    "Middle Camp/Bloodhound analysis.md",
-    "Middle Camp/Lateral Movement II.md",
+    "images/PORT2.png",
+    "images/ports3.png",
+    "Base Camp/Web Server.md",
+    "Base Camp/Enumeration.md",
+    "Base Camp/XSS.md",
     "Middle Camp/Second Question.md",
-    "Middle Camp/Foothold.md",
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+    "The Summit",
+    "Middle Camp/Bloodhound analysis.md",
     "Base Camp/Exploitation.md",
-    "images/winrm_j.smith.png",
     "index.md",
     "images/Negación Erótica.md",
     "README.md",
-    "Base Camp/XSS.md",
-    "Base Camp/Web Server.md",
     "Base Camp/User's flag.md",
-    "Base Camp/Root's flag.md",
-    "Base Camp/Private Escalation.md",
-    "Base Camp/Other Questions.md",
-    "Middle Camp/Lateral Movement I.md",
-    "images/winrm 1.png",
-    "images/Force_change_password.png",
-    "images/Diagram.svg",
-    "images/Screenshot_2025-11-30_05-29-36.png",
     "images/Diagram.svg.xml",
-    "Middle Camp/BloodHound v8 Defensive Toolkit.md",
-    "images/j.bold.png",
-    "Middle Camp/Enumeration.md",
     "Middle Camp",
     "Base Camp/Untitled",
     "Base Camp",
