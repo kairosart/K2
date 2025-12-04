@@ -47,4 +47,4 @@ evil-winrm -i k2.thm -u j.smith -H '9545b61858c043477c350ae86c37b32f'
 
 Nothing interesting in the Desktop directory of `j.smith`.
 
-**Next step:** [[Shell as o.amstrong]]
+**Next step:** [[Shell as o.armstrong]]
