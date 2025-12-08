@@ -43,7 +43,7 @@ Try if you have WinRM access with the command:
 evil-winrm -i k2.thm -u j.smith -H '9545b61858c043477c350ae86c37b32f'
 ```
 
-![[winrm3.png]]
+![[winrm3 1.png]]
 
 Nothing interesting in the Desktop directory of `j.smith`.
 

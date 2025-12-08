@@ -9,6 +9,6 @@ You are o.armstrong
 > [!Question] What is the root flag?
 >THM{400002b4b9fa7decb59019364388b8a3}
 
-**Next step:** [[Lateral Movement]]
+**Next step:** [[Escalation to Domain Admin]]
 
 

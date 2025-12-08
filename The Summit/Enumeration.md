@@ -44,4 +44,7 @@ nmap k2.thm -sC -sV -p 53,88,135,139,389,445,464,593,636,3268,3269,3389,5985 -Pn
 
 You can determine the name of the machine `K2ROOTDC`. 
 
-Add `K2ROOTDC.K2.THM` to our `/etc/host` file.
+Add `K2RootDC.k2.thm` to our `/etc/host` file.
+
+**Next step:** [[The Summit/Foothold|Foothold]]
+

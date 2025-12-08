@@ -124,7 +124,7 @@ Run:
 evil-winrm -i k2.thm -u O.ARMSTRONG -p arMStronG08
 ```
 
-![[winrm3.png]]
+![[winrm3 1.png]]
 
 **Next step:** [[The Summit/User's flag|User's flag]]
 

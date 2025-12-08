@@ -10,6 +10,9 @@ They have only provided you with their external website called `k2.thm`.
 
 Please allow 3-5 minutes for the VM to fully start.
 
+### Steps
+
+
 
 ## Middle Camp
 
