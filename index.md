@@ -22,6 +22,8 @@ Please allow 3-5 minutes for the VM to fully start.
 8. [[Other Questions]]
 
 
+---
+
 
 ## Middle Camp
 
@@ -46,6 +48,9 @@ Please allow 3-5 minutes for the VM to fully start.
 11. [[Middle Camp/Privilege Escalation]]
 12. [[Administrator's NTLM hash]]
 13. [[Middle Camp/Root's flag]]
+
+
+---
 
 ## The Summit
 
