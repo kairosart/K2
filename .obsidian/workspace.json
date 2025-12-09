@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "The Summit/Escalation to Domain Admin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Escalation to Domain Admin"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "The Summit/Escalation to Domain Admin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Escalation to Domain Admin"
             }
           },
           {
@@ -307,33 +307,42 @@
   },
   "active": "4de36b11422478a5",
   "lastOpenFiles": [
-    "README.md",
-    "docs",
-    "Untitled Folder",
     "index.md",
-    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
-    "Middle Camp/Bloodhound analysis.md",
-    "The Summit/Escalation to Domain Admin.md",
-    "The Summit/User's flag.md",
+    "docs/lib/metadata.json",
+    "README.md",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
     "The Summit/Shell as o.armstrong.md",
     "The Summit/Foothold.md",
+    "The Summit/Escalation to Domain Admin.md",
     "The Summit/Enumeration.md",
-    "Middle Camp/Privilege Escalation.md",
-    "Base Camp/Other Questions.md",
-    "Middle Camp/Root's flag.md",
-    "Middle Camp/Administrator's NTLM hash.md",
-    "Middle Camp/First question.md",
-    "Base Camp/Privilege Escalation.md",
-    "Base Camp/Root's flag.md",
-    "Middle Camp/Shell as J.Smith.md",
-    "Middle Camp/Changing J.Smith's password.md",
-    "Middle Camp/Lateral Movement II.md",
-    "Middle Camp/Second Question.md",
-    "Middle Camp/Lateral Movement I.md",
     "Middle Camp/Shell as R.Bud.md",
-    "Base Camp/User's flag.md",
+    "Middle Camp/Shell as J.Smith.md",
+    "Middle Camp/Second Question.md",
+    "Middle Camp/Privilege Escalation.md",
+    "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Lateral Movement I.md",
     "Middle Camp/Foothold.md",
     "Middle Camp/Enumeration.md",
+    "Middle Camp/Changing J.Smith's password.md",
+    "Middle Camp/Bloodhound analysis.md",
+    "Middle Camp/Administrator's NTLM hash.md",
+    "Base Camp/XSS.md",
+    "Base Camp/Web Server.md",
+    "Base Camp/Root's flag.md",
+    "Base Camp/Privilege Escalation.md",
+    "Base Camp/Other Questions.md",
+    "Base Camp/Exploitation.md",
+    "Base Camp/Enumeration.md",
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
     "images/outbound3.png",
     "images/json3.png",
     "images/wimexec.png",
@@ -342,15 +351,6 @@
     "images/addComputer.png",
     "images/linux_abuse.png",
     "images/o.armstrongtok2rootcd.k2.png",
-    "images/bloodhound3.png",
-    "images/winrm3 1.png",
-    "LLMNR-NBT",
-    "The Summit",
-    "images/Diagram.svg.xml",
-    "Middle Camp",
-    "Base Camp/Untitled",
-    "Base Camp",
-    "images",
-    "docs/PRIVILEGE ESCALATION/Root flag.html"
+    "images/bloodhound3.png"
   ]
 }

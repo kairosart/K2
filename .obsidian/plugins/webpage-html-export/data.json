@@ -4,7 +4,7 @@
   "inlineAssets": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
-  "titleProperty": "Holo",
+  "titleProperty": "K2",
   "customHeadContentPath": "",
   "faviconPath": "",
   "documentWidth": "40em",
@@ -43,12 +43,12 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/external/Obsidian/Stealth/docs",
+  "exportPath": "/home/emi/external/Obsidian/K2/docs",
   "filesToExport": [
     [
-      "ENUMERATION",
-      "EXPLOITATION",
-      "PRIVILEGE ESCALATION",
+      "Base Camp",
+      "Middle Camp",
+      "The Summit",
       "index.md",
       "README.md"
     ]

@@ -1,0 +1,352 @@
+{
+  "vaultName": "You Got Mail",
+  "lastExport": 1765276707676,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Base Camp/Enumeration.md",
+    "Base Camp/Exploitation.md",
+    "Base Camp/Other Questions.md",
+    "Base Camp/Privilege Escalation.md",
+    "Base Camp/Root's flag.md",
+    "Base Camp/User's flag.md",
+    "Base Camp/Web Server.md",
+    "Base Camp/XSS.md",
+    "Middle Camp/Administrator's NTLM hash.md",
+    "Middle Camp/Bloodhound analysis.md",
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md",
+    "Middle Camp/Changing J.Smith's password.md",
+    "Middle Camp/Enumeration.md",
+    "Middle Camp/First question.md",
+    "Middle Camp/Foothold.md",
+    "Middle Camp/Lateral Movement I.md",
+    "Middle Camp/Lateral Movement II.md",
+    "Middle Camp/Privilege Escalation.md",
+    "Middle Camp/Root's flag.md",
+    "Middle Camp/Second Question.md",
+    "Middle Camp/Shell as J.Smith.md",
+    "Middle Camp/Shell as R.Bud.md",
+    "The Summit/Enumeration.md",
+    "The Summit/Escalation to Domain Admin.md",
+    "The Summit/Foothold.md",
+    "The Summit/Root's flag.md",
+    "The Summit/Shell as o.armstrong.md",
+    "The Summit/User's flag.md",
+    "index.md",
+    "README.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/293fd13dbca5a3e450ef.woff2",
+    "lib/fonts/085cb93e613ba3d40d2b.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "Base Camp/Enumeration.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 2340,
+      "exportedPath": "Base Camp/Enumeration.html",
+      "dependencies": []
+    },
+    "Base Camp/Exploitation.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1487,
+      "exportedPath": "Base Camp/Exploitation.html",
+      "dependencies": []
+    },
+    "Base Camp/Other Questions.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 581,
+      "exportedPath": "Base Camp/Other Questions.html",
+      "dependencies": []
+    },
+    "Base Camp/Privilege Escalation.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 682,
+      "exportedPath": "Base Camp/Privilege Escalation.html",
+      "dependencies": []
+    },
+    "Base Camp/Root's flag.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 406,
+      "exportedPath": "Base Camp/Root's flag.html",
+      "dependencies": []
+    },
+    "Base Camp/User's flag.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 318,
+      "exportedPath": "Base Camp/User's flag.html",
+      "dependencies": []
+    },
+    "Base Camp/Web Server.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 645,
+      "exportedPath": "Base Camp/Web Server.html",
+      "dependencies": []
+    },
+    "Base Camp/XSS.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 2436,
+      "exportedPath": "Base Camp/XSS.html",
+      "dependencies": []
+    },
+    "Middle Camp/Administrator's NTLM hash.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 834,
+      "exportedPath": "Middle Camp/Administrator's NTLM hash.html",
+      "dependencies": []
+    },
+    "Middle Camp/Bloodhound analysis.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 509,
+      "exportedPath": "Middle Camp/Bloodhound analysis.html",
+      "dependencies": []
+    },
+    "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 3402,
+      "exportedPath": "Middle Camp/BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition.html",
+      "dependencies": []
+    },
+    "Middle Camp/Changing J.Smith's password.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 327,
+      "exportedPath": "Middle Camp/Changing J.Smith's password.html",
+      "dependencies": []
+    },
+    "Middle Camp/Enumeration.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 955,
+      "exportedPath": "Middle Camp/Enumeration.html",
+      "dependencies": []
+    },
+    "Middle Camp/First question.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 223,
+      "exportedPath": "Middle Camp/First question.html",
+      "dependencies": []
+    },
+    "Middle Camp/Foothold.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 2168,
+      "exportedPath": "Middle Camp/Foothold.html",
+      "dependencies": []
+    },
+    "Middle Camp/Lateral Movement I.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1261,
+      "exportedPath": "Middle Camp/Lateral Movement I.html",
+      "dependencies": []
+    },
+    "Middle Camp/Lateral Movement II.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1591,
+      "exportedPath": "Middle Camp/Lateral Movement II.html",
+      "dependencies": []
+    },
+    "Middle Camp/Privilege Escalation.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1581,
+      "exportedPath": "Middle Camp/Privilege Escalation.html",
+      "dependencies": []
+    },
+    "Middle Camp/Root's flag.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 222,
+      "exportedPath": "Middle Camp/Root's flag.html",
+      "dependencies": []
+    },
+    "Middle Camp/Second Question.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 298,
+      "exportedPath": "Middle Camp/Second Question.html",
+      "dependencies": []
+    },
+    "Middle Camp/Shell as J.Smith.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 375,
+      "exportedPath": "Middle Camp/Shell as J.Smith.html",
+      "dependencies": []
+    },
+    "Middle Camp/Shell as R.Bud.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 999,
+      "exportedPath": "Middle Camp/Shell as R.Bud.html",
+      "dependencies": []
+    },
+    "The Summit/Enumeration.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 2361,
+      "exportedPath": "The Summit/Enumeration.html",
+      "dependencies": []
+    },
+    "The Summit/Escalation to Domain Admin.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 3571,
+      "exportedPath": "The Summit/Escalation to Domain Admin.html",
+      "dependencies": []
+    },
+    "The Summit/Foothold.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1126,
+      "exportedPath": "The Summit/Foothold.html",
+      "dependencies": []
+    },
+    "The Summit/Root's flag.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 237,
+      "exportedPath": "The Summit/Root's flag.html",
+      "dependencies": []
+    },
+    "The Summit/Shell as o.armstrong.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 3071,
+      "exportedPath": "The Summit/Shell as o.armstrong.html",
+      "dependencies": []
+    },
+    "The Summit/User's flag.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 265,
+      "exportedPath": "The Summit/User's flag.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 1918,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 9480,
+      "exportedPath": "README.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/293fd13dbca5a3e450ef.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 105924,
+      "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/085cb93e613ba3d40d2b.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 112184,
+      "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1765276707676,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
