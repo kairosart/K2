@@ -1,5 +1,5 @@
 
-Now you have to get `j.bold` passwor.
+Now you have to get `j.bold` password.
 
 From the notes you found on [[Shell as R.Bud]] you know:
 
@@ -36,4 +36,4 @@ cat /usr/share/wordlists/rockyou.txt | grep -i rockyou > rocks.txt
 
 j.bold's password is `#8rockyou`.
 
-**Next step:** [[Lateral Movement II]]
+**Next step:** [[Second Question]]

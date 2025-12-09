@@ -34,3 +34,4 @@ su - root
 
 ![[root.png]]
 
+**Next step:** [[Base Camp/Root's flag|Root's flag]]

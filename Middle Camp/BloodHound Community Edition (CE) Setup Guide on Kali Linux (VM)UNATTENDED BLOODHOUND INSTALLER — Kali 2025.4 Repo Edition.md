@@ -1,4 +1,4 @@
-BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)
+BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM). BloodHound: v8.3.1.
 
 BloodHound CE is a powerful tool for analyzing Active Directory (AD) environments and visualizing relationships that could lead to privilege escalation.
 

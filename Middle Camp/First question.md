@@ -7,4 +7,4 @@
 > [!Question] What is the user flag?
 >THM{3e5a19a9ba91881f4d7852d92126a97f}
 
-**Next step:** [[Private Escalation]]
+**Next step:** [[Base Camp/Privilege Escalation]]

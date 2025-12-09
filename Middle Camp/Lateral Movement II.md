@@ -34,10 +34,11 @@ After this you'll get a few `.json` files on your directory.
 
 At the time of writing this walkthrough I was working on Kali Linux 2025.4.
 
+> [!Note]
 So as to install neo4j and bloodhoun I've done a section that does it for you automatically.
+[[BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition]]
 
-**Next step:** [[BloodHound Community Edition (CE) Setup Guide on Kali Linux (VM)UNATTENDED BLOODHOUND INSTALLER — Kali 2025.4 Repo Edition]]
 
-
+**Next step:** [[Bloodhound analysis]]
 
 

@@ -12,4 +12,4 @@ cat user.txt
 > [!Question] What is the user flag?
 >THM{9e04a7419a2b7a86163496271a8a95dd}
 
- 
+ **Next step:** [[Base Camp/Privilege Escalation]]
